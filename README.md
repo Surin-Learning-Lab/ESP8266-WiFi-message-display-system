@@ -1,4 +1,4 @@
-Wi-Fi LED Message Display
+
 Welcome to the Wi-Fi LED Message Display project! This project uses an ESP8266 module and an MD_MAX72xx LED Matrix to create a dynamic display that you can control via your web browser. It's perfect for displaying messages in your home, office, or any event where you want to broadcast information wirelessly.
 
 Features
